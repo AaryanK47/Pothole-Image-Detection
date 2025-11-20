@@ -3,7 +3,6 @@
 
 > A high-performance, privacy-focused web application for real-time pothole detection using client-side AI.
 
-![Project Banner](https://via.placeholder.com/1200x600/0f172a/00f3ff?text=RoadGuard+AI+Detection)
 
 ## 🚀 Overview
 
