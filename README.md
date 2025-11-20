@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛣️ Image Pothole Detection Using CNN
 
 > A high-performance, privacy-focused web application for real-time pothole detection using client-side AI.
@@ -62,3 +63,6 @@ It features a dual-mode detection engine:
 ## 👨‍💻 Author
 
 Built with ❤️ by [Your Name]
+=======
+# Pothole-Image-Detection
+>>>>>>> 099e6de7b796453ef253bfa6232757ef0c369f46
