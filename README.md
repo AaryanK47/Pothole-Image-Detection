@@ -60,6 +60,5 @@ It features a dual-mode detection engine:
 4.  **Post-Processing**: Overlapping boxes are merged using NMS, and the final results are drawn on the HUD overlay.
 
 ## 👨‍💻 Author
-
-Built  by Aaryan Kumar
+Aaryan Kumar
 =======
